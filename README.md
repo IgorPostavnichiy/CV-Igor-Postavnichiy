@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# My CV_English on React
 
-### Advanced Configuration
+### Result of my work you can see here - https://igorpostavnichiy.github.io/CV-Igor-Postavnichiy/
 
