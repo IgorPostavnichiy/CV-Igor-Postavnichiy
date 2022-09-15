@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CV-Igor-Postavnichiy/static/css/main.052eef1e.css",
+    "main.js": "/CV-Igor-Postavnichiy/static/js/main.85a99960.js",
+    "static/media/logo.jpg": "/CV-Igor-Postavnichiy/static/media/logo.ca43c58dd2bae7f634b8.jpg",
+    "index.html": "/CV-Igor-Postavnichiy/index.html",
+    "main.052eef1e.css.map": "/CV-Igor-Postavnichiy/static/css/main.052eef1e.css.map",
+    "main.85a99960.js.map": "/CV-Igor-Postavnichiy/static/js/main.85a99960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052eef1e.css",
+    "static/js/main.85a99960.js"
+  ]
+}
