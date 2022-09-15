@@ -1,0 +1,10 @@
+.container {
+    font-size: 16px;
+    line-height: 1.6em;
+    font-weight: normal;
+    background: #f0f0f0;
+    color: #0f141e;
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}

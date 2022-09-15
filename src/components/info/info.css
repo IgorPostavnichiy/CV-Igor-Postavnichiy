@@ -1,0 +1,48 @@
+img {
+    width: 230px;
+    height: 260px;
+    padding-left: 20px;
+    border-radius: 34px;
+    box-shadow: 15px 0 10px rgba(0, 0, 0, .05);
+}
+
+h2 {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+
+h6 {
+    padding-top: 10px;
+}
+
+p {
+    padding-bottom: 10px;
+}
+
+.header {
+ margin-bottom: 20px;
+ display: flex;
+ padding: 10px;
+}
+
+.header-text {
+    margin-left: 40px;
+    
+}
+
+.header-text p {
+
+    font-style: italic;
+    font-weight: bold;
+    color: #020202;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+@media (max-width: 600px) {
+    .header {
+        display: block;
+        text-align: center;
+    }
+}

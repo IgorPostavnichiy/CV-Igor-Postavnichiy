@@ -1,0 +1,13 @@
+.hobby-list {
+    
+        padding: 15px 35px;
+        border-bottom: 1px solid #ccc;
+       
+    }
+
+label {
+    padding-left: 10px;
+    padding-bottom: 5px;
+    color: black;
+    font-weight: 500;
+}

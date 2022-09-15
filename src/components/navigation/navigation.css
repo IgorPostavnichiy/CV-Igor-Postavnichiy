@@ -1,0 +1,43 @@
+.block  {
+    display: flex;
+    border-top: 3px solid burlywood;
+    padding-top: 15px;
+   
+}
+
+.block a{
+    text-decoration: none;
+}
+
+span {
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 25px;
+    color: rgb(78, 160, 190);   
+}
+
+.navigation ul li {
+    font-size: 16px;
+    list-style: none;
+    display: inline;
+    
+}
+
+.navigation a {
+    padding: 15px;
+    text-decoration: none;
+    color: brown;
+    
+}
+
+.navigation a:hover {
+    background-color: rgb(172, 222, 232);
+  }
+
+
+@media (max-width: 712px) {
+    .navigation ul li {
+        display: block;
+        padding: 10px 0;
+}       
+  }

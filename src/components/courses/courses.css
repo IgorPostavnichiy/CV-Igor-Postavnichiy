@@ -1,0 +1,21 @@
+.courses {
+    padding-top: 15px;
+    padding-left: 15px;
+    
+}
+
+.courses-list {
+    list-style: none;
+    padding-left: 35px;
+}
+
+.courses-list  {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    color: blue;
+}
+
+h6 {
+    padding-left: 30px;
+}
